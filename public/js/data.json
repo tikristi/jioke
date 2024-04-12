@@ -1,0 +1,316 @@
+{
+  "dishes": {
+    "soups": [
+      {
+        "name": "Egusi soup",
+        "ingredients": [
+          "Ground melon seeds (egusi)",
+          "melon",
+          "palm oil",
+          "assorted meats (beef, chicken, or fish)",
+          "stockfish",
+          "dried fish",
+          "crayfish",
+          "onions",
+          "tomatoes",
+          "bell peppers",
+          "spinach or bitter leaf",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/egusi.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=soups&index=0"
+      },
+      {
+        "name": "Banga Soup (Ofe Akwu)",
+        "ingredients": [
+          "Palm fruit extract (banga)",
+          "assorted meats (usually goat meat or beef)",
+          "dried fish",
+          " crayfish, onions",
+          "scent leaves",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/banga.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=soups&index=1"
+      },
+      {
+        "name": "Vegetable Soup",
+        "ingredients": [
+          " Assorted vegetables (spinach, pumpkin leaves)",
+          "palm oil",
+          "assorted meats (beef, chicken, or fish)",
+          "stockfish",
+          "dried fish",
+          "crayfish",
+          "onions",
+          "tomatoes",
+          "bell peppers",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/vegetable.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=soups&index=2"
+      },
+      {
+        "name": "Okra Soup",
+        "ingredients": [
+          "Okra",
+          "palm oil",
+          "assorted meats (beef, chicken, or fish)",
+          "stockfish",
+          "dried fish",
+          "crayfish",
+          "onions",
+          "tomatoes",
+          "bell peppers",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/okra.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=soups&index=3"
+      },
+      {
+        "name": "Fisherman Soup",
+        "ingredients": [
+          "Assorted seafood (fish, shrimp, crab)",
+          "palm oil",
+          "stockfish",
+          "crayfish",
+          "onions",
+          "tomatoes",
+          "bell peppers",
+          "scent leaves",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/fisherman.jpg",
+        "price": "₦8,000",
+        "url": "/dishes?dish=soups&index=4"
+      },
+      {
+        "name": "Afang Soup",
+        "ingredients": [
+          "Afang leaves",
+          "water leaves",
+          "palm oil",
+          "assorted meats (beef, chicken, or fish)",
+          "stockfish",
+          "dried fish",
+          "crayfish",
+          "onions",
+          "tomatoes",
+          "bell peppers",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/afang.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=soups&index=5"
+      },
+      {
+        "name": "Pepper Soup",
+        "ingredients": [
+          "Assorted meats (goat meat, beef, or chicken)",
+          "pepper soup spices (such as uziza seeds, utazi leaves)",
+          "onions",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/pepper.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=soups&index=6"
+      },
+      {
+        "name": "Ogbono Soup",
+        "ingredients": [
+          " Ground ogbono seeds",
+          " palm oil",
+          "assorted meats (beef, chicken, or fish)",
+          "stockfish",
+          "dried fish",
+          "crayfish",
+          "onions",
+          "tomatoes",
+          "bell peppers",
+          "seasoning (bouillon cubes)",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/ogbono.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=soups&index=7"
+      }
+    ],
+    "swallows": [
+      {
+        "name": "Pounded Yam",
+        "ingredients": ["Yam (typically white yam)"],
+        "img_link": "./images/pounded_yam.jpg",
+        "price": "₦500",
+        "url": "/dishes?dish=swallows&index=0"
+      },
+      {
+        "name": "Amala",
+        "ingredients": [
+          "Yam flour or yam peel flour (obtained from dried yam peels"
+        ],
+        "img_link": "./images/amala.jpg",
+        "price": "₦500",
+        "url": "/dishes?dish=swallows&index=1"
+      },
+      {
+        "name": "Fufu",
+        "ingredients": ["cassava, plantain, yam, or a combination of these"],
+        "img_link": "./images/fufu.jpg",
+        "price": "₦500",
+        "url": "/dishes?dish=swallows&index=2"
+      },
+      {
+        "name": "Eba",
+        "ingredients": ["Garri"],
+        "img_link": "./images/eba.jpg",
+        "price": "₦300",
+        "url": "/dishes?dish=swallows&index=3"
+      },
+      {
+        "name": "Starch",
+        "ingredients": ["Extracted from cassava tubers"],
+        "img_link": "./images/starch.jpeg",
+        "price": "₦500",
+        "url": "/dishes?dish=swallows&index=4"
+      },
+      {
+        "name": "Semovita",
+        "ingredients": ["Semolina flour"],
+        "img_link": "./images/semovita.jpg",
+        "price": "₦500",
+        "url": "/dishes?dish=swallows&index=5"
+      }
+    ],
+    "intercontinentals": [
+      {
+        "name": "Jollof Rice",
+        "ingredients": [
+          "Rice",
+          "tomatoes",
+          "tomato paste",
+          "onions",
+          "bell peppers",
+          "scotch bonnet peppers",
+          "spices (such as curry powder, thyme, and bay leaves)",
+          "vegetable oil"
+        ],
+        "img_link": "./images/jollof_rice.jpg",
+        "price": "₦4,000",
+        "url": "/dishes?dish=intercontinentals&index=0"
+      },
+      {
+        "name": "Fried Rice",
+        "ingredients": [
+          "Rice",
+          "mixed vegetables (carrots, peas, green beans)",
+          "onions",
+          "bell peppers",
+          "soy sauce",
+          "vegetable oil"
+        ],
+        "img_link": "./images/fried_rice.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=intercontinentals&index=1"
+      },
+      {
+        "name": "Banga Rice",
+        "ingredients": [
+          "Rice",
+          "palm fruit extract (banga)",
+          "dried fish",
+          "crayfish",
+          "onions",
+          "seasoning",
+          "salt",
+          "chili peppers"
+        ],
+        "img_link": "./images/banga_rice.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=intercontinentals&index=2"
+      },
+      {
+        "name": "Coconut Rice",
+        "ingredients": [
+          "Rice",
+          "coconut milk",
+          "onions",
+          "garlic",
+          "ginger",
+          "coconut oil",
+          "spices (such as curry powder and thyme)"
+        ],
+        "img_link": "./images/coconut.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=intercontinentals&index=3"
+      },
+      {
+        "name": "Plantain and Beans",
+        "ingredients": [
+          "Ripe plantains",
+          "beans",
+          "onions",
+          "tomatoes",
+          "bell peppers",
+          "palm oil",
+          "spices (such as crayfish and bouillon cubes)"
+        ],
+        "img_link": "./images/plaintain_beans.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=intercontinentals&index=4"
+      },
+      {
+        "name": "Spaghetti and Sauce",
+        "ingredients": [
+          "Spaghetti pasta",
+          "tomatoes",
+          "onions",
+          "garlic",
+          "spices"
+        ],
+        "img_link": "./images/spag_sauce.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=intercontinentals&index=5"
+      },
+      {
+        "name": "Fried Chips",
+        "ingredients": ["Potatoes", "vegetable oil", "salt"],
+        "img_link": "./images/fried_chips.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=intercontinentals&index=6"
+      },
+      {
+        "name": "Nkwobi",
+        "ingredients": [
+          "Cow foot",
+          "cow skin",
+          " palm oil",
+          "onions",
+          "utazi leaves",
+          "spices (such as crayfish and bouillon cubes)"
+        ],
+        "img_link": "./images/nkwobi.jpg",
+        "price": "₦5,000",
+        "url": "/dishes?dish=intercontinentals&index=7"
+      }
+    ]
+  }
+}
